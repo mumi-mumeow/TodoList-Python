@@ -1,7 +1,7 @@
 Todo_List = []
 
 while True :
-    print("---------- To do List Menu ----------")
+    print("\n---------- To do List Menu ----------")
     print("1.Add Task\n" \
           "2.Delete Task\n" \
           "3.View All Tasks\n" \
